@@ -11,4 +11,4 @@ Tuve una serie de dificultades, te las señala enseguida. Agradecería me pudier
 4- En el footer, tuve el problema de que una vez se aplicaba la propiedad flex-wrap=wrap, las ul se wrapiaban sin problema sin embargo el footer quedaba a la mitad de todo su contenido, es decir sus elementos sobrepasaban los border del footer. Solucione este problema aplicando al footer la propiedad heigth= fit-content. Probablemente soluciono el problema pero no me gusto del todo, ya que achicaba mucho los elementos. Me gustaria haber agrandado el footer para que cubriese los elementos tal cual estaban y no achicar los elementos para que se adaptaran al footer. Favor indicar como logro esto.
 
 
-Muchas gracias que Feliz Año.
+Muchas gracias y Feliz Año.
